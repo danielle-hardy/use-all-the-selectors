@@ -34,10 +34,10 @@ nav {
   background-color: #b58900;
 }
 
-.wrapper > strong [href^="Botanically"] {
+.dfn + strong {
   color: #fff;
 }
 
-a p:not(.no-highlight){
+a:not(.no-highlight){
   background-color: #719e07;
 }
