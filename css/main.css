@@ -37,3 +37,7 @@ nav {
 .wrapper > strong [href^="Botanically"] {
   color: #fff;
 }
+
+a p:not(.no-highlight){
+  background-color: #719e07;
+}
