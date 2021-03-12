@@ -1,3 +1,11 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 body {
   background-color: #fdf6e3;
 }
@@ -15,9 +23,13 @@ nav {
 }
 
 .wrapper {
-  background-colour: #eee8d5;
+  background-color: #eee8d5;
 }
 
 #contents, #favs, #facts, #types {
   color: #93a1a1;
+}
+
+.wrapper > .dfn {
+  background-color: #b58900;
 }
