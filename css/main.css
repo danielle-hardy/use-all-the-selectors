@@ -9,3 +9,15 @@ header, footer {
 nav {
   font-family: sans-serif;
 }
+
+.logo {
+  text-transform: uppercase;
+}
+
+.wrapper {
+  background-colour: #eee8d5;
+}
+
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
+}
