@@ -34,7 +34,7 @@ nav {
   background-color: #b58900;
 }
 
-.wrapper > .dfn strong {
+.wrapper > .dfn strong:nth-child(2) {
   color: #fff;
 }
 
